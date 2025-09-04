@@ -4,19 +4,17 @@ Hey! I’m a web developer and video editor who loves building cool websites and
 
 ### Skills
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" /> </picture></a> &nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" /> </picture></a> &nbsp; 
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" /> </picture></a> &nbsp; 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" /> </picture></a> &nbsp; 
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Expo_logo.svg/640px-Expo_logo.svg.png" alt="Expo" /> </picture></a> &nbsp; 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/React_Native_Logo.png" alt="React Native" /> </picture></a> &nbsp; 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" /> </picture></a> &nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" /> </picture></a> &nbsp; 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" /> </picture></a> &nbsp; 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" /> </picture></a> &nbsp; 
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Prisma_logo.svg" alt="Prisma" /> </picture></a> &nbsp; 
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" /> </picture></a> &nbsp; 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" /> </picture></a> &nbsp;
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" /> </picture> &nbsp;
 
 
 ### Social
