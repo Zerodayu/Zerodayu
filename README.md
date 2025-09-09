@@ -10,6 +10,7 @@ Hey! I’m a web developer and video editor who loves building cool websites and
 <picture> <img height="36" width="36" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" /> </picture> &nbsp; 
 <picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" /> </picture> &nbsp; 
 <picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" /> </picture> &nbsp; 
+<picture> <img height="36" width="36" src="https://img.icons8.com/?size=256&id=XKFRdQOs24QU&format=png" alt="Framer Motion" /> </picture> &nbsp;
 <picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" /> </picture> &nbsp; 
 <picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" /> </picture> &nbsp; 
 <picture> <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" /> </picture> &nbsp; 
