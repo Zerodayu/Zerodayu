@@ -30,7 +30,7 @@ Hey! I’m a web developer and video editor who loves building cool websites and
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
 </picture>
 </a> &nbsp;
-<a href="https://www.facebook.com/xnpa1.fx" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/zerodayu" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
 </picture>
