@@ -20,6 +20,11 @@ Hey! I’m a web developer and video editor who loves building cool websites and
 
 ### Social
 
+<a href="https://zerodayu.vercel.app" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://github.com/user-attachments/assets/5305e18e-252d-44c1-80c9-931a8d33cdb9" alt="portfolio" />
+</picture>
+</a> &nbsp;
 <a href="https://www.github.com/Zerodayu" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
