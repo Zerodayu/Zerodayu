@@ -35,15 +35,8 @@ Hey! I’m a web developer and video editor who loves building cool websites and
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
 </picture>
 </a> &nbsp;
-<a href="https://www.instagram.com/xnpa1" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/zerodayu" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
 </picture>
 </a> &nbsp;
-<a class="margin-right: 10px" href="https://www.youtube.com/@xenpa1fx" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="youtube" />
-</picture>
-</a> &nbsp;
-
-
